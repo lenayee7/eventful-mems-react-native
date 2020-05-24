@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "EventfulMems",
-    "slug": "nucampsite",
+    "name": "eventful-mems-react-native",
+    "slug": "EventfulMems",
     "platforms": [
       "ios",
       "android",
